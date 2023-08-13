@@ -2,7 +2,7 @@ function saludar(){
     alert("Hola!");
 };
 
-var saludate = document.getElementById("hidiv");
+var saludate = document.getElementById("Hidiv");
 
 saludate.addEventListener("click", () => {
     alert("Hola! Soy el div");
